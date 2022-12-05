@@ -1,6 +1,7 @@
 ### Oh hello there 👋
 
-Come say hi to me on [Twitter](https://twitter.com/whitefluffyC)
+Come say hi on [Twitter](https://twitter.com/whitefluffyC)
 
-- I like open source software and blockchain stuff
-- Building, thinking about and experimenting with music NFTs at https://anotherblock.io/
+- I like open source software, TypeScript, React, and blockchain stuff
+- Sometimes I stream when I code on https://www.twitch.tv/whitefluffy
+- And then upload videos on https://www.youtube.com/@whitefluffycloud
